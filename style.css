@@ -1,0 +1,331 @@
+/* POPPINS FONT FAMILY */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+*{
+    font-family:'Poppins', sans-serif ;
+}
+body{
+    background-color: #f5f5f5;
+
+}
+nav{
+    float: right;
+    margin-right: 40px;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.nav-item{
+    margin-right: 20px;
+    color: black;
+}
+.nav-item-active{
+    background-color:#f5f5f5;
+    padding: 5px; 
+    color:cornflowerblue;
+    border: 2px solid  ;
+    border-radius: 2px solid ; 
+    color:cornflowerblue;
+    font-weight: 400;
+    margin-right: 20px;
+}
+
+.logo{
+    margin: 50px;
+}
+
+.header-text-one{
+    margin-left: 60px;
+    margin-top: 100px;
+    font-size: medium;
+    
+   
+}
+.header-text-one .h1-first{
+    font-size: 50px;
+}
+.image-first{
+    width: 580px;
+    float:right;
+    margin-right: 40px;
+}
+
+.button-first{
+  background-color:rgb(38, 91, 187);
+  padding: 10px; 
+  border-radius: 5px; 
+  color:white;
+  font-weight: 700;
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+.Header-text-two{
+    margin-top:200px;
+    font-size: medium;
+    
+}
+.parsbvf{
+    margin-left:500px;
+}
+.header-h2-secon{
+    margin-left:500px;
+}
+.h2-second{
+    margin-left: 500px;
+    font-size: 50px;
+
+}
+
+.image-second{
+    width: 580px;
+    float:left;
+    margin-left: 60px;
+
+}
+
+.button-second{
+    width: 150px;
+    background-color:rgb(38, 91, 187);
+    padding: 10px; 
+    border-radius: 5px; 
+    color:white;
+    font-weight: 700;
+    margin-left: 500px;
+    margin-top: 30px;
+  }
+
+.Header-text-three{
+    margin-left: 60px;
+    font-size: medium;
+    /* margin-top:320px; */
+  }
+
+  .image-third{
+    width: 580px;
+    float: right;
+    margin-bottom: 20px;
+    
+  }
+ .hesder3-there{
+    font-size: 50px;
+    margin-top: 300px;
+   
+  }
+  .pqrstur{
+    margin-top: 30px;
+  }
+
+  .button-Third{
+    width: 150px;
+    background-color:rgb(38, 91, 187);
+    padding: 10px; 
+    border-radius: 5px; 
+    color:white;
+    font-weight: 700;
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+
+  /* service-section */
+
+ .service-Section{
+    
+    display:inline-flex;
+
+ }
+ .Hosting-service{
+    margin-left: 100px;
+    font-size: 35px;
+    
+ }
+ .para-heading{
+    margin-left: 500px;
+ }
+
+ .cards{
+    margin-left: 25px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.card-active{
+display: flex;
+justify-content: space-between;
+max-width: 450px;
+margin: 0 auto;
+background-color:rgb(192, 210, 247);
+padding: 10px 0;
+
+}
+
+/* price */
+
+.header-transparent{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.all-pricing-card{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(171, 195, 240);
+    
+}
+
+
+.price-card{
+    width: 600px;
+    height: auto;
+    margin-top: 100px;
+    background-color: #f5f5f5;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 8px;
+}
+
+.blog-content{
+    margin-left: 30px;
+}
+.packestsofprice{
+    text-align: center;
+}
+.pricing{
+    text-align: center;
+}
+
+.button-four{
+    width: 150px;
+    background-color:rgb(38, 91, 187);
+    padding: 10px; 
+    border-radius: 5px; 
+    color:white;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  /* customer love */
+
+  .our-customer{
+    text-align: center;
+  }
+
+  .CEO-content-ONE{
+    margin-left:350px;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+     
+  }
+  .CEO-content{
+    width: 400px;
+    height: 250px;
+    background-color: white;
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    padding: 5px;
+}
+.blog-card-bottom{
+    display: flex;
+    padding: 10px;
+}
+
+.blog-card-bottom{
+    display: flex;
+   
+}
+
+
+
+
+
+
+small{
+    margin-left: 20PX;
+}
+
+
+.Quit-worrying{
+    height: 300px;
+    background-image: url(./assest/footer-bg.svg);
+    
+}
+
+.Quit-worrying-lass{
+    margin-left: 80px;  
+    
+}
+
+.last-button{
+    margin-left: 60%;
+  
+}
+.last-button-by{
+    width: 200px;
+    padding: 10px;
+    color: #f5f5f5; 
+    background-color: rgb(4, 70, 190);
+    border-radius: 5px; 
+    font-weight: 700;
+}
+
+
+
+.footer-section{
+    height: 225px;
+    color: black;
+}
+
+.footer-left{
+    float: left;
+}
+
+.footer-logo{
+    margin-top: 50px;
+    padding-left: 90px;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    list-style-type: none;
+    
+}
+
+.logos-list{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+    list-style-type: none;
+    margin-top: 120px;
+    margin-right: -200px;
+}
+
+
+
+.list-items{
+    margin-left: 25px;
+}
+
+.footer-right{
+    float: right;
+    margin-top: 10px;
+    margin-right: 100px;
+}
+
+.footer-logos{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+  
