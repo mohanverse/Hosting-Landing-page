@@ -3,7 +3,7 @@
 ## Project 11 | Hosting-Landing-page <a><button name="button" style = "color: red" onclick="https:">`HTML CSS` project 11</button></a>
 ## By mohanverse
 
-# Live Link-: [Hosting-Landing-page](Hosting-Landing-page)
+# [Hosting-Landing-page](Hosting-Landing-page)
 
 ![project 9](./screenshot/Screenshot(74).png)
 
